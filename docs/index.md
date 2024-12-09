@@ -17,16 +17,22 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     </br>
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
-    To be able to follow this course, learners should have knowledge in:  
-    &emsp;1. First requirement  
-    &emsp;2. Second requirement  
+    To effectively follow and read this handbook, learners should have foundational knowledge in:  
+    &emsp;1. Basic principles of education and curriculum development. 
+    &emsp;2. Familiarity with instructional design frameworks.
+    &emsp;3. General understanding of the subject matter or domain for which Learning Paths will be developed.
     
     </br>
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
-    By the end of the course, learners will be able to:  
-    &emsp;1. First item  
-    &emsp;2. Second item  
+    By consulting this handbook, learners will be able to:  
+    &emsp;1. Design structured Learning Paths tailored to specific educational or professional goals.
+    &emsp;2. Find examples and case studies to inspire the development of their Learning Paths.
+    &emsp;3. Gain an overview of how Learning Paths can be integrated into a training program like the one delivered by ELIXIR.    
+    &emsp;4. Collaborate effectively with teams or stakeholders to plan and implement Learning Paths across various domains.
+    &emsp;5. Contribute collaboratively to keeping this handbook updated with the latest developments in Learning Path methodologies.
+    &emsp;6. Become part of a community of like-minded individuals interested in Learning Path design and implementation.
+   
     
     </br>
     
