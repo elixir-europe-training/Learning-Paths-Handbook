@@ -18,9 +18,9 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
     To effectively follow and read this handbook, learners should have foundational knowledge in:  
-    - &emsp;1. basic principles of education and curriculum development 
-    - &emsp;2. familiarity with instructional design frameworks
-    - &emsp;3. general understanding of the subject matter or domain for which Learning Paths will be developed
+    &emsp;1. basic principles of education and curriculum development
+    &emsp;2. familiarity with instructional design frameworks
+    &emsp;3. general understanding of the subject matter or domain for which Learning Paths will be developed
     
     </br>
     
