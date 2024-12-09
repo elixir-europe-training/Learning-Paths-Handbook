@@ -30,8 +30,11 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     1. design structured Learning Paths tailored to specific educational or professional goals
     2. find examples and case studies to inspire the development of their Learning Paths
-    3. gain an overview of how Learning Paths can be integrated into a training program like the one delivered by ELIXIR    
-    4. collaborate effectively with teams or stakeholders to plan and implement Learning Paths across various domains
+    3. collaborate effectively with teams or stakeholders to plan and implement Learning Paths across various domains
+    
+    and will have the opportunity of:
+    
+    4. gain an overview of how Learning Paths can be integrated into a training program like the one delivered by ELIXIR    
     5. contribute collaboratively to keeping this handbook updated with the latest developments in Learning Path methodologies
     6. become part of a community of like-minded individuals interested in Learning Path design and implementation.
    
