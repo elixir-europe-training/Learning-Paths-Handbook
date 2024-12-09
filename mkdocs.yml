@@ -1,7 +1,7 @@
 site_name: Learning Paths Handbook
 nav:
     - About: index.md
-    - 6-steps LP Protocol - Guidelines:
+    - 6-steps Protocol - Guidelines:
       - "Introduction": chapters/introduction.md
       - "Step 1": chapters/chapter_01.md
       - "Step 2": chapters/chapter_02.md
