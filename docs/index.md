@@ -28,12 +28,12 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     By consulting this handbook, learners will be able to:
     
-    &emsp;1. design structured Learning Paths tailored to specific educational or professional goals
-    &emsp;2. find examples and case studies to inspire the development of their Learning Paths
-    &emsp;3. gain an overview of how Learning Paths can be integrated into a training program like the one delivered by ELIXIR    
-    &emsp;4. collaborate effectively with teams or stakeholders to plan and implement Learning Paths across various domains
-    &emsp;5. contribute collaboratively to keeping this handbook updated with the latest developments in Learning Path methodologies
-    &emsp;6. become part of a community of like-minded individuals interested in Learning Path design and implementation
+    1. design structured Learning Paths tailored to specific educational or professional goals
+    2. find examples and case studies to inspire the development of their Learning Paths
+    3. gain an overview of how Learning Paths can be integrated into a training program like the one delivered by ELIXIR    
+    4. collaborate effectively with teams or stakeholders to plan and implement Learning Paths across various domains
+    5. contribute collaboratively to keeping this handbook updated with the latest developments in Learning Path methodologies
+    6. become part of a community of like-minded individuals interested in Learning Path design and implementation
    
     
     </br>
