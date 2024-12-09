@@ -12,7 +12,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
-    Add a short description of the training materail should be inserted here. 
+    This handbook will serve as a comprehensive resource, containing guidelines, documents, examples, links, and various references of interest for planning and developing Learning Paths.
     
     </br>
     
