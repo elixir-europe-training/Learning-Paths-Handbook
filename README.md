@@ -1,4 +1,4 @@
-# Learning Paths Handbook
+# Learning Paths Repository
 
 
 
