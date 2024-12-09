@@ -21,7 +21,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     1. basic principles of education and curriculum development
     2. familiarity with instructional design frameworks
-    3. general understanding of the subject matter or domain for which Learning Paths will be developed
+    3. general understanding of the subject matter or domain for which Learning Paths will be developed.
     
     </br>
     
@@ -33,7 +33,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     3. gain an overview of how Learning Paths can be integrated into a training program like the one delivered by ELIXIR    
     4. collaborate effectively with teams or stakeholders to plan and implement Learning Paths across various domains
     5. contribute collaboratively to keeping this handbook updated with the latest developments in Learning Path methodologies
-    6. become part of a community of like-minded individuals interested in Learning Path design and implementation
+    6. become part of a community of like-minded individuals interested in Learning Path design and implementation.
    
     
     </br>
