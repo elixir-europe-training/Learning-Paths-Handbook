@@ -44,7 +44,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     :fontawesome-solid-users: **Target Audience:** Training providers, trainers, professors, educators, researchers interested in educational science 
     </br>
     
-    [comment]: # :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
+    <!-- :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  -->
     
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
