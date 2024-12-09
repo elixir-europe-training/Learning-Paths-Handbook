@@ -41,7 +41,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     </br>
     
-    :fontawesome-solid-users: **Target Audience:** Training providers, trainers, professors, educators, researchers interested in educational science 
+    :fontawesome-solid-users: **Target Audience:** Training providers, trainers, professors, educators, researchers and anyone interested in educational science 
     </br>
     
     <!-- :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  -->
