@@ -10,10 +10,10 @@ nav:
       - "Step 5": chapters/chapter_05.md
       - "Step 6": chapters/chapter_06.md
       - "References": chapters/references.md
-    - "Case studies":
+    - Case studies: []
     - ELIXIR Training (connections and integration):
-      - ELIXIR Training Life Cycle:
-      - ELIXIR TeSS (Training eSupport System)":
+      - "ELIXIR Training Life Cycle": follow_up_training.md
+      - "ELIXIR TeSS (Training eSupport System)": follow_up_training.md
       #  - "Follow up training": follow_up_training.md
 
 theme:
