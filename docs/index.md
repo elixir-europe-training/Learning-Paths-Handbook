@@ -6,14 +6,14 @@
 
 !!! overview ""
     :fontawesome-regular-bookmark: <span style="color: blue; font-size: 18px;">**Description**</span>  
-    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths, offering **guidelines, examples, training materials, and best practices** to support lifelong growth and expertise development. You will also gain an overview of how Learning Paths can be integrated into training programs, such as the ones delivered by ELIXIR. Additionally, you will have the opportunity tocontribute collaboratively to keep this handbook updated with the latest developments in Learning Path approaches and become part of a community of like-minded individuals interested in the design and implementation of Learning Paths. (TODO: add a more detailed description of each item on the list shown on the left, to make the contents of the Handbook more explicit and clear.)
+    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths, offering **guidelines, examples, training materials, and best practices** to support lifelong growth and expertise development. Additionally, you will have the opportunity to contribute collaboratively to keep this handbook updated with the latest developments in Learning Path approaches and become part of a community of like-minded individuals interested in the design and implementation of Learning Paths. (TODO: add a more detailed description of each item on the list shown on the left, to make the contents of the Handbook more explicit and clear.)
 
     </br>
     
     :fontawesome-solid-arrow-left: <span style="color: blue; font-size: 18px;">**Prerequisites**</span>   
-    To effectively follow and read this handbook, learners should have foundational knowledge in:  
+    To effectively follow and read this handbook, learners should have:  
     
-    1. basic principles of education and curriculum development
+    1. foundational knowledge in basic principles of education and curriculum development
     2. familiarity with instructional design frameworks
     3. general understanding of the subject matter or domain for which Learning Paths will be developed.
     
@@ -24,7 +24,8 @@
     
     1. design structured Learning Paths tailored to specific educational or professional goals
     2. find examples and case studies to inspire the development of their Learning Paths
-    3. collaborate effectively with teams or stakeholders to plan and implement Learning Paths across various domains.
+    3. gain an overview of how Learning Paths can be integrated into training programs, such as the ones delivered by ELIXIR
+    4. collaborate more effectively with teams or stakeholders to plan and implement Learning Paths across various domains.
     
     </br>
     
