@@ -6,7 +6,8 @@
 
 !!! overview ""
     :fontawesome-regular-bookmark: <span style="color: blue; font-size: 18px;">**Description**</span>  
-    This handbook will serve as a comprehensive resource hub for exploring, designing, and implementing structured learning paths, with guidelines, examples, and best practices to support lifelong growth and expertise development.
+    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths, offering **guidelines, examples, training materials, and best practices** to support lifelong growth and expertise development. You will also gain an overview of how Learning Paths can be integrated into training programs, such as the ones delivered by ELIXIR.</br>
+Additionally, you will have the opportunity tocontribute collaboratively to keep this handbook updated with the latest developments in Learning Path approaches and become part of a community of like-minded individuals interested in the design and implementation of Learning Paths.
     
     </br>
     
