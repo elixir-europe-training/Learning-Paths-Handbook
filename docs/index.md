@@ -29,7 +29,7 @@
     
     </br>
     
-    :fontawesome-solid-users: <span style="color: blue; font-size: 18px;">**Target Audience:**</span> Training providers, trainers, professors, educators, researchers and anyone interested in educational science 
+    :fontawesome-solid-users: <span style="color: blue; font-size: 18px;">**Target Audience:**</span> Training providers, trainers, professors, educators, researchers, and anyone with an interest in educational science. 
     </br>
     
     <!-- :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  -->
