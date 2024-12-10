@@ -11,7 +11,9 @@ nav:
       - "Step 6": chapters/chapter_06.md
       - "References": chapters/references.md
     - "Case studies"
-    - "ELIXIR Training Life Cycle (connection and integration)"
+    - "ELIXIR Training (connections and integration)":
+        - "ELIXIR Training Life Cycle": 
+        - "ELIXIR TeSS (Training eSupport System)":
  #  - "Follow up training": follow_up_training.md
 
 theme:
