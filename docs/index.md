@@ -6,7 +6,7 @@
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
-    This handbook will serve as a comprehensive resource, containing guidelines, documents, examples, links, and various references of interest for planning and developing Learning Paths.
+    This handbook will serve as a comprehensive resource hub for exploring, designing, and implementing structured learning paths, with guidelines, examples, and best practices to support lifelong growth and expertise development.
     
     </br>
     
