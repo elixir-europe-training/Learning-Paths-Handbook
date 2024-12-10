@@ -1,4 +1,4 @@
-# Learning Paths Handbook
+# ELIXIR Learning Paths Handbook
 
 
 
