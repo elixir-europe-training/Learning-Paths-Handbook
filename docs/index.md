@@ -35,14 +35,14 @@
     
     </br>
     
-    :fontawesome-solid-users: <span style="color: blue; font-size: 18px;">**Target Audience:** Training providers, trainers, professors, educators, researchers and anyone interested in educational science</span>  
+    :fontawesome-solid-users: <span style="color: blue; font-size: 18px;">**Target Audience:**</span> Training providers, trainers, professors, educators, researchers and anyone interested in educational science 
     </br>
     
     <!-- :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  -->
     
-    :fontawesome-solid-lock: <span style="color: blue; font-size: 18px;">**License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)</span>   
+    :fontawesome-solid-lock: <span style="color: blue; font-size: 18px;">**License:**</span> [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
     
-    :fontawesome-solid-money-bill-1: <span style="color: blue; font-size: 18px;">**Funding:** This project has received funding from ELIXIR (tbc).</span>   
+    :fontawesome-solid-money-bill-1: <span style="color: blue; font-size: 18px;">**Funding:**</span> This project has received funding from ELIXIR (tbc)   
 
     [comment]: # (Property in Bioschema: description)
     [comment]: # (Property in Bioschema: coursePrequsites)
