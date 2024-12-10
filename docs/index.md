@@ -5,12 +5,12 @@
 ## Handbook overview
 
 !!! overview ""
-    :fontawesome-regular-bookmark: <span style="color: blue; font-size: 24px;">**Description**</span>  
+    :fontawesome-regular-bookmark: <span style="color: blue; font-size: 18px;">**Description**</span>  
     This handbook will serve as a comprehensive resource hub for exploring, designing, and implementing structured learning paths, with guidelines, examples, and best practices to support lifelong growth and expertise development.
     
     </br>
     
-    :fontawesome-solid-arrow-left: **Prerequisites**  
+    :fontawesome-solid-arrow-left: <span style="color: blue; font-size: 18px;">**Prerequisites**</span>   
     To effectively follow and read this handbook, learners should have foundational knowledge in:  
     
     1. basic principles of education and curriculum development
@@ -19,7 +19,7 @@
     
     </br>
     
-    :fontawesome-solid-arrow-right: **Learning Outcomes:**  
+    :fontawesome-solid-arrow-right: <span style="color: blue; font-size: 18px;">**Learning Outcomes:**</span>  
     By consulting this handbook, learners will be able to:
     
     1. design structured Learning Paths tailored to specific educational or professional goals
@@ -35,14 +35,14 @@
     
     </br>
     
-    :fontawesome-solid-users: **Target Audience:** Training providers, trainers, professors, educators, researchers and anyone interested in educational science 
+    :fontawesome-solid-users: <span style="color: blue; font-size: 18px;">**Target Audience:** Training providers, trainers, professors, educators, researchers and anyone interested in educational science</span>  
     </br>
     
     <!-- :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  -->
     
-    :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
+    :fontawesome-solid-lock: <span style="color: blue; font-size: 18px;">**License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)</span>   
     
-    :fontawesome-solid-money-bill-1: **Funding:** This project has received funding from ELIXIR (tbc).  
+    :fontawesome-solid-money-bill-1: <span style="color: blue; font-size: 18px;">**Funding:** This project has received funding from ELIXIR (tbc).</span>   
 
     [comment]: # (Property in Bioschema: description)
     [comment]: # (Property in Bioschema: coursePrequsites)
