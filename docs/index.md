@@ -5,7 +5,7 @@
 ## Handbook overview
 
 !!! overview ""
-    :fontawesome-regular-bookmark: **Description**  
+    :fontawesome-regular-bookmark: <span style="color: blue; font-size: 24px;">**Description**</span>  
     This handbook will serve as a comprehensive resource hub for exploring, designing, and implementing structured learning paths, with guidelines, examples, and best practices to support lifelong growth and expertise development.
     
     </br>
