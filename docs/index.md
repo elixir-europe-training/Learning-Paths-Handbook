@@ -2,7 +2,7 @@
 
 [add-bioschemas file='_data/metadata.yaml']
 
-![LP](/img/image1.jpeg)
+![LP](../img/image1.jpeg)
 
 ## Handbook overview
 
