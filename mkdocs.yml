@@ -11,10 +11,10 @@ nav:
       - "Step 6": chapters/chapter_06.md
       - "References": chapters/references.md
     - Case studies: []
-    - Training materials on how to design a Learning Path: []
-    - ELIXIR Training (connections and integration):
+    - ELIXIR Training Platform (connections and integration):
       - "ELIXIR Training Life Cycle": []
-      #- "ELIXIR TeSS (Training eSupport System)": follow_up_training.md
+      - "ELIXIR Training materials on How to design Learning Paths": []
+      - "ELIXIR TeSS (Training eSupport System)": []
       #  - "Follow up training": follow_up_training.md
 
 theme:
