@@ -14,7 +14,7 @@ nav:
     - ELIXIR Training Platform (Connections and Integration):
       - "ELIXIR Training Life Cycle": []
       - "ELIXIR Training materials on How to design Learning Paths": []
-      - "ELIXIR TeSS (Training eSupport System)": []
+      - "ELIXIR Learning Paths in TeSS (ELIXIR Training eSupport System)": []
       #  - "Follow up training": follow_up_training.md
 
 theme:
