@@ -1,7 +1,7 @@
 site_name: Learning Paths Handbook - structuring lifelong learning journeys
 nav:
     - About: index.md
-    - 6-steps Protocol - Guidelines:
+    - A 6-steps Protocol to design LPs:
       - "Introduction": chapters/introduction.md
       - "Step 1": chapters/chapter_01.md
       - "Step 2": chapters/chapter_02.md
