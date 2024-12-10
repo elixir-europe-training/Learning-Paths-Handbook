@@ -2,6 +2,8 @@
 
 [add-bioschemas file='_data/metadata.yaml']
 
+[{% include image.html file="/img/image1.jpg" alt="LP" max-width="7" %}]()
+
 ## Handbook overview
 
 !!! overview ""
