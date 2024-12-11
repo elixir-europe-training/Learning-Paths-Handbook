@@ -3,7 +3,7 @@
 [add-bioschemas file='_data/metadata.yaml']
 
 <!-- ![LP](./assets/images/cover/image2.jpeg) -->
-<div style="text-align: center;">
+<div style="text-align: left;">
     <img src="./assets/images/cover/image6.jpeg" alt="LP" width="300" height="200">
 </div>
 ## Handbook overview
