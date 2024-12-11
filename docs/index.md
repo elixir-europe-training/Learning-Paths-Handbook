@@ -2,8 +2,9 @@
 
 [add-bioschemas file='_data/metadata.yaml']
 
-![LP](./assets/images/cover/image2.jpeg)
+<!-- ![LP](./assets/images/cover/image2.jpeg) -->
 
+<img src="./assets/images/cover/image2.jpeg" alt="LP" width="300" height="200">
 ## Handbook overview
 
 !!! overview ""
