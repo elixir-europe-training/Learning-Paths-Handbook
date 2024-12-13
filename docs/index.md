@@ -4,7 +4,7 @@
 
 <!-- ![LP](./assets/images/cover/image2.jpeg) -->
 <div style="text-align: left;">
-    <img src="./assets/images/cover/image1.jpeg" alt="LP" width="600" height="400">
+    <img src="./assets/images/cover/image1.jpeg" alt="LP" width="900" height="600">
 </div>
 ## Handbook overview
 
