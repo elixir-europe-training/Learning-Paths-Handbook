@@ -1,6 +1,6 @@
 ## What is this step about?
 - Identify DOMAIN is the first step of the ELIXIR learning paths protocol. 
-- Identifying DOMAIN is the starting point to set the context for-, content of- and structure for- the learning path.
+- Identifying DOMAIN is the starting point to set the context, content, and structure of the learning path.
 
 <!-- Here you can enter text and create inline citations[@Garcia2020] by using the bibtex plugin. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] by adding #the @refid inside brackets like this `[@10.1093/bioinformatics/btt113]`
 
