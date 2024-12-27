@@ -24,8 +24,7 @@
 ## Why do we need to identify DOMAIN(s)?
 Identifying DOMAIN(S) is imperative from several perspectives:
 - From an educator’s perspective: it provides a clear framework/reference to guide subsequent decisions in developing the learning path.
-- From a learner’s perspective: 
-a clearly stated DOMAIN ensures clarity, helping learners understand the focus and goals of the learning path.
+- From a learner’s perspective: a clearly stated DOMAIN ensures clarity, helping learners understand the focus and goals of the learning path.
 
 ## How do we identify DOMAIN(s)?
 
