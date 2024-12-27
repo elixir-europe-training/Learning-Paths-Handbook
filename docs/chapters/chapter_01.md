@@ -14,7 +14,7 @@
 ![type:video](https://youtube.com/embed/oAD8FdGf8tI)
 -->
 
-## What is DOMAIN (definition)?
+## What is a DOMAIN?
 !!! note "Note"
 
     Here you can put a note using admonitions.
