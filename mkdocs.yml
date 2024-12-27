@@ -11,12 +11,12 @@ nav:
       - "Step 6": chapters/chapter_06.md
       - "References": chapters/references.md
     - Case studies: []
-    - Collaborative Journey (Describing how the project was created and developed): []
     - ELIXIR Training Platform (Connections and Integration):
       - "ELIXIR Training Life Cycle": []
       - "ELIXIR Training materials on How to design Learning Paths": []
       - "ELIXIR Learning Paths in TeSS (ELIXIR Training eSupport System)": []
     - Useful Online Resources: []
+    - A Collaborative Journey (describing how this project was created and developed): []
 #- "Follow up training": follow_up_training.md
     
 
