@@ -15,8 +15,6 @@
 -->
 
 ## What is DOMAIN (definition)?
-Definition of terminology of keywords in Caps
-
 !!! note "Note"
 
     Here you can put a note using admonitions.
