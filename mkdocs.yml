@@ -3,12 +3,12 @@ nav:
     - About: index.md
     - Designing Learning Paths:
       - "Introduction": chapters/introduction.md
-      - "Step 1": chapters/chapter_01.md
-      - "Step 2": chapters/chapter_02.md
-      - "Step 3": chapters/chapter_03.md
-      - "Step 4": chapters/chapter_04.md
-      - "Step 5": chapters/chapter_05.md
-      - "Step 6": chapters/chapter_06.md
+      - "Step 1: Identify DOMAIN(S)": chapters/chapter_01.md
+      - "Step 2: Identify TARGET AUDIENCE": chapters/chapter_02.md
+      - "Step 3: Identify AREA(S)": chapters/chapter_03.md
+      - "Step 4: Identify TOPICS and STAGES": chapters/chapter_04.md
+      - "Step 5: Connect topics based on PREREQUISITES": chapters/chapter_05.md
+      - "Step 6: Annotate LEARNING OUTCOMES of the Learning Path": chapters/chapter_06.md
       - "References": chapters/references.md
     - Case studies: []
     - ELIXIR Training Platform (Connections and Integration):
