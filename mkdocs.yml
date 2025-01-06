@@ -3,7 +3,7 @@ nav:
     - About: index.md
     - Designing Learning Paths:
       - "Introduction": chapters/introduction.md
-      - "Step 1: Identify DOMAIN(S)": chapters/chapter_01.md
+      - "Step 1: Identify DOMAIN": chapters/chapter_01.md
       - "Step 2: Identify TARGET AUDIENCE": chapters/chapter_02.md
       - "Step 3: Identify AREA(S)": chapters/chapter_03.md
       - "Step 4: Identify TOPICS and STAGES": chapters/chapter_04.md
