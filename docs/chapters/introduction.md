@@ -12,7 +12,7 @@ just attach the ID of the video to a youtube embedded video link: `https://youtu
 -->
 
 <div style="text-align: left;">
-    <img src="./assets/images/protocol/LP - blu-orange version2.svg" alt="LP" width="900" height="600">
+    <img src="./assets/images/protocol/LP_blu_orange_version2.svg" alt="LP" width="900" height="600">
 </div>
 
 
