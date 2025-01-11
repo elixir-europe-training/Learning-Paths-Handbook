@@ -10,7 +10,7 @@ just attach the ID of the video to a youtube embedded video link: `https://youtu
 
 ![type:video](https://youtube.com/embed/oAD8FdGf8tI)
 
-## What is a DOMAIN?
+## What are AREA(S)
 
 !!! note "Note"
 
