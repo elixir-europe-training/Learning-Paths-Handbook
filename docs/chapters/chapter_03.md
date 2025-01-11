@@ -1,14 +1,8 @@
 ## What is this step about?
-Here you can enter text and create inline citations[@Garcia2020] by using the bibtex plugin. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] by adding the @refid inside brackets like this `[@10.1093/bioinformatics/btt113]`
+While the first two steps (identifying the domain and target audience) focus on planning, this step marks the beginning of the design phase of the protocol (steps 3-6). In this phase, the content of the learning path (LP) is organised and structured, creating the framework that will guide the development of educational/training materials. The protocol represents this phase as a cyclical process, emphasising the necessity of iteration, by moving back and forth between steps to ensure alignment and coherence.
+The design phase begins with identifying the key Areas of knowledge that will be covered throughout the LP. These Areas form the foundation for the subsequent step, where specific topics within each Area are detailed to align the LP with both educational objectives and learners' needs. 
+As part of this cyclical process, the creation of a roadmap/concept map begins. This map provides both a logical and visual representation of the LP, serving as a dynamic tool to guide content structuring and to communicate the LP framework clearly to stakeholders.
 
-You can also embed videos from a local source (with a relative path) or from an url (like youtube). To use a youtube URL, 
-just attach the ID of the video to a youtube embedded video link: `https://youtube.com/embed/`. For example, the Elixir training video `https://youtu.be/oAD8FdGf8tI` has the ID `oAD8FdGf8tI`, so the final link would be:
-
-```
-![type:video](https://youtube.com/embed/oAD8FdGf8tI)
-```
-
-![type:video](https://youtube.com/embed/oAD8FdGf8tI)
 
 ## What are AREA(S)
 
