@@ -15,7 +15,7 @@ nav:
       - "ELIXIR Training Life Cycle": []
       - "ELIXIR Training materials on How to design Learning Paths": []
       - "ELIXIR Learning Paths in TeSS (ELIXIR Training eSupport System)": []
-    - Useful Online Resources: chapters/useful_resources.md
+    - Useful Online Resources: useful_resources.md
     - A Collaborative Journey (how this project was created and developed): []
 #- "Follow up training": follow_up_training.md
     
