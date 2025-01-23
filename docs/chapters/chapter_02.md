@@ -1,15 +1,10 @@
-## 2.1 First subtopic
-Here you can enter text and if you need to cite[@creative_commons_2022]
-
-!!! example "Challenge 1"
-
-    This is an example of text of Challenge 1
-
-    ??? success "Solution"
-
-        This is an example solution for Challenge 1.
+## What is this step about?
 
 
-## 2.2 Second subtopic
+## What is TARGET AUDIENCE?
 
-## 2.3 Third subtopic
+## Why do we need to identify TARGET AUDIENCE?
+
+## How do we identify TARGET AUDIENCE?
+
+## Use-case example
