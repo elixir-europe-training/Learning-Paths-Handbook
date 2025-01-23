@@ -9,3 +9,5 @@ General overview of the overall step
 
 ## How do we annotate LEARNING OUTCOMES of the learning path?
 
+## Use-case example
+
