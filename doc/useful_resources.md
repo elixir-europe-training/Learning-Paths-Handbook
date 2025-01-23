@@ -1,1 +1,2 @@
-
+- "An international consensus on effective, inclusive, and career-spanning short-format training in the life sciences and beyond". 
+Williams JJ, Tractenberg RE, Batut B, Becker EA, Brown AM, et al. (2023) An international consensus on effective, inclusive, and career-spanning short-format training in the life sciences and beyond. PLOS ONE 18(11): e0293879. https://doi.org/10.1371/journal.pone.0293879
