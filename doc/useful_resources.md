@@ -1,2 +1,3 @@
 - "An international consensus on effective, inclusive, and career-spanning short-format training in the life sciences and beyond". 
 Williams JJ, Tractenberg RE, Batut B, Becker EA, Brown AM, et al. (2023) An international consensus on effective, inclusive, and career-spanning short-format training in the life sciences and beyond. PLOS ONE 18(11): e0293879. https://doi.org/10.1371/journal.pone.0293879
+Life Science Trainers is a way to connect anyone and everyone who does short-format training (workshops, boot camps, short-courses, etc.) in the life sciences. This site is a place to share resources, advice, and conversation – all in the service of improving our teaching and our careers. https://lifescitrainers.org/
