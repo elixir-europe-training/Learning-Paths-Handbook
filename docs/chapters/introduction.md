@@ -11,9 +11,9 @@ Accompanied by detailed guidelines, best practices, and practical advice, the pr
 
 !!! note "Note"
 
-    A Learning Path refers to a pathway that guides the learner through a selection of training modules (that could be courses or training materials) to be undertaken progressively, from lower to higher thinking skills, to acquire the desired knowledge and skills on a subject by the end of the pathway. 
-    
-    Learning paths are beneficial because they make the learning content digestible and effective.
+    A Learning Path is a structured pathway that guides learners through a curated selection of training modules —such as courses or training materials— progressively moving from foundational to advanced cognitive skills. By the end of the pathway, learners acquire the targeted knowledge and skills in a specific subject area.
+
+Learning Paths are highly beneficial as they not only break complex learning content into manageable units but also ensure that the material is absorbed progressively. This approach guarantees that learners meet the necessary prerequisites at each stage, enabling them to tackle subsequent content with confidence and a solid foundation.
 
 
 ## Key Properties of Learning Paths
