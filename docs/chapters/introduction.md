@@ -8,7 +8,7 @@
 
 !!! note "Definition"
 
-A learning path is a sequence that leads a learner through different learning modules. These modules could be courses or training materials, designed to progressively enhance a learner's thinking skills from basic to advanced levels, ensuring a comprehensive understanding of the subject by the end of the path.
+    A Learning Path refers to a pathway that guides the learner through a selection of learning units (that could be courses or training materials) to be undertaken progressively, from lower to higher thinking skills, to acquire the desired knowledge and skills on a subject by the end of the pathway.
 
 
 ## Key Properties of Learning Paths
