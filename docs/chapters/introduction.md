@@ -4,8 +4,9 @@
     <img src="../../assets/images/protocol/LP_blu_orange_version2.png" alt="LP" width="800" height="550">
 </div>
 
-This protocol is intended for training providers, curriculum developers, and trainers, and it can be used as a tool or guide to help build structured Learning Paths.
-This step-by-step protocol is accompanied by a set of guidelines, best practices, and general advice that will help to create constructive Learning Paths aimed to increase the knowledge, skills and abilities of the learners.
+<br>
+This six-steps protocol is intended for training providers, curriculum developers, and trainers, and it can be used as a simple and flexible tool to help build structured Learning Paths in different contexts.
+This protocol is accompanied by guidelines, best practices, and general advice that will facilitate to create step-by-step constructive Learning Paths aimed to increase the knowledge, skills and abilities of the learners.
 
 
 !!! note "Note"
