@@ -6,7 +6,8 @@
 
 <br>
 This six-step protocol is designed for training providers, curriculum developers, and educators seeking a straightforward and adaptable framework for building Learning Paths across various contexts. 
-Accompanied by detailed guidelines, best practices, and practical advice, the protocol provides a step-by-step approach to creating effective Learning Paths. Its focus is on fostering the systematic development of knowledge, skills, and abilities to empower learners and enhance their educational journey.
+
+Accompanied by detailed guidelines, best practices, and examples, the protocol provides a step-by-step approach to creating effective Learning Paths. Its focus is on fostering the systematic development of knowledge, skills, and abilities to empower learners and enhance their educational journey.
 
 
 !!! note "Note"
