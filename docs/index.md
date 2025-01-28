@@ -1,11 +1,11 @@
 # ELIXIR Learning Paths Handbook 
 [add-bioschemas file='_data/metadata.yaml']
 
-{% block announce %}
+
 <div style="background-color: #ffcc00; padding: 10px; text-align: center;">
   <strong>⚠️ Please note: This content is under development and may be subject to changes. </strong>
 </div>
-{% endblock %}
+
 
 <!-- ![LP](./assets/images/cover/image2.jpeg) -->
 <div style="text-align: left;">
