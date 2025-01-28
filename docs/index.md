@@ -2,7 +2,7 @@
 [add-bioschemas file='_data/metadata.yaml']
 
 
-<div style="background-color: #ffcc00; padding: 10px; text-align: center;">
+<div style="background-color: #2FF2F2; padding: 10px; text-align: center;">
   <strong>⚠️ Please note: This content is under development </strong>
 </div>
 <br>
