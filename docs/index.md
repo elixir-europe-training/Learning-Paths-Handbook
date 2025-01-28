@@ -3,10 +3,10 @@
 
 
 <div style="background-color: #ffcc00; padding: 10px; text-align: center;">
-  <strong>⚠️ Please note: This content is under development and may be subject to changes. </strong>
+  <strong>⚠️ Please note: This content is under development </strong>
 </div>
-
-
+<br>
+<br>
 <!-- ![LP](./assets/images/cover/image2.jpeg) -->
 <div style="text-align: left;">
     <img src="./assets/images/cover/image1.jpeg" alt="LP" width="900" height="600">
