@@ -1,7 +1,7 @@
 ## A six-step Protocol to design Learning Paths
 
 <div style="text-align: left;">
-    <img src="../../assets/images/protocol/LP_blu_orange_version2.png" alt="LP" width="800" height="550">
+    <img src="../../assets/images/protocol/LP_blu_orange_version3.png" alt="LP" width="800" height="550">
 </div>
 
 <br>
