@@ -1,4 +1,5 @@
 # ELIXIR Learning Paths Handbook 
+{% include work_in_progress_banner.html %}
 
 [add-bioschemas file='_data/metadata.yaml']
 
