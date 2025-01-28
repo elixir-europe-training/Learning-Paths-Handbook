@@ -3,7 +3,7 @@
 
 
 <div style="background-color: #2FF2F2; padding: 10px; text-align: center;">
-  <strong>⚠️ Please note: This content is under development </strong>
+  <strong>⚠️ Please note: the content of this Handbook is under development </strong>
 </div>
 <br>
 <br>
