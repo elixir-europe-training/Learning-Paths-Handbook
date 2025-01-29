@@ -15,7 +15,7 @@
 
 !!! overview ""
     :fontawesome-regular-bookmark: <span style="color: blue; font-size: 18px;">**Description**</span>  
-    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths, offering **guidelines, examples, training materials, and best practices** to support lifelong growth and expertise development. Additionally, you will have the opportunity to contribute collaboratively to keep this handbook updated with the latest developments in Learning Path approaches and become part of a community of like-minded individuals interested in the design and implementation of Learning Paths. (TODO: add a more detailed description of each item on the list shown on the left, to make the contents of the Handbook more explicit and clear.)
+    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths, offering **guidelines, examples, training materials, and best practices** to support lifelong growth and expertise development. Additionally, you will have the opportunity to contribute collaboratively to keep this handbook updated with the latest developments in Learning Path approaches and become part of a community of like-minded individuals interested in the design and implementation of Learning Paths.
 
     </br>
     
