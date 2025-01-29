@@ -18,7 +18,7 @@ This six-step protocol is designed for **training providers, curriculum develope
 
 Accompanied by detailed guidelines, best practices, and examples, the protocol provides a step-by-step approach to failitate creation of effective Learning Paths. Its focus is on fostering lifelong learning by providing a structured yet adaptable framework that supports continuous skill development and knowledge acquisition.
 
-!!! note "Key Properties of Learning Paths"
+!!! info "Key Properties of Learning Paths"
 
     - **Progressive:** each step builds upon the previous one, gradually increasing in complexity
     - **Directional:** there is a trajectory from the beginning to an end point
