@@ -33,8 +33,8 @@ theme:
     text: Lato
 
 # Repository
-repo_name: loredanalepera/Learning-Paths-Handbook
-repo_url: https://loredanalepera.github.io/Learning-Paths-Handbook/
+repo_name: elixir-europe-training/Learning-Paths-Handbook
+repo_url: https://github.com/elixir-europe-training/Learning-Paths-Handbook/
 edit_uri: edit/main/docs/
 
 plugins:
