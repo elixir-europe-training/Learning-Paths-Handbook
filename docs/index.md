@@ -1,16 +1,17 @@
 # ELIXIR Learning Paths Handbook 
 [add-bioschemas file='_data/metadata.yaml']
 
-
-<div style="background-color: #2FF2F2; padding: 10px; text-align: center;">
+<!-- <div style="background-color: #2FF2F2; padding: 10px; text-align: center;">
   <strong>⚠️ Please note: the content of this Handbook is under development </strong>
 </div>
 <br>
 <br>
+-->
 <!-- ![LP](./assets/images/cover/image2.jpeg) -->
 <div style="text-align: left;">
     <img src="./assets/images/cover/image1.jpeg" alt="LP" width="900" height="600">
 </div>
+
 ## Handbook overview
 
 !!! overview ""
