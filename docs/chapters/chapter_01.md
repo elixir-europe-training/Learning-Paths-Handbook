@@ -15,7 +15,7 @@
 -->
 
 ## What is a DOMAIN?
-!!! info "What is a DOMAIN?"
+!!! info "A DOMAIN is ...?"
 
     Here you can put a note using admonitions.
 
