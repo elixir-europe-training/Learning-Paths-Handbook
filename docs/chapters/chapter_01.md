@@ -33,6 +33,6 @@ a clearly stated DOMAIN ensures clarity, helping learners understand the focus a
 
 ## Use-case example
 
-??? abstract For more information ...
+??? abstract "For more information ..."
 
 
