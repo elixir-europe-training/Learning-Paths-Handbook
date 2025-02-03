@@ -7,7 +7,7 @@
 <br>
 
 
-!!! Info "A Learning Path is ..."
+!!! info "A Learning Path is ..."
 
     A Learning Path is a structured pathway that guides learners through a curated and ordered selection of training modules —such as courses or training materials— progressively moving from foundational to advanced cognitive skills. By the end of the pathway, learners acquire the targeted knowledge and skills in a specific subject area.
 
@@ -18,7 +18,7 @@ This six-step protocol is designed for **training providers, curriculum develope
 
 Accompanied by detailed guidelines, best practices, and examples, the protocol provides a step-by-step approach to failitate creation of effective Learning Paths. Its focus is on fostering lifelong learning by providing a structured yet adaptable framework that supports continuous skill development and knowledge acquisition.
 
-!!! info "Key Properties of Learning Paths"
+!!! success "Key Properties of Learning Paths"
 
     - **Progressive:** each step builds upon the previous one, gradually increasing in complexity
     - **Directional:** there is a trajectory from the beginning to an end point
