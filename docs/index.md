@@ -32,7 +32,7 @@
     <br>
     
     :fontawesome-solid-arrow-left: <span style="color: blue; font-size: 18px;">**Prerequisites**</span>   
-    To effectively follow and read this handbook, learners should have:  
+    To effectively read and use this handbook, learners should have:  
     
     1. foundational knowledge in basic principles of education and curriculum development
     2. familiarity with instructional design frameworks
