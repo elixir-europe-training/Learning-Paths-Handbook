@@ -16,9 +16,8 @@
 
 !!! overview ""
     :fontawesome-regular-bookmark: <span style="color: blue; font-size: 18px;">**Description**</span>  
-    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths. It offers a wide range of materials, including **guidelines, case studies, examples, training resources, and best practices**, all aimed at supporting lifelong learning and the develoment of expertise across various domains.
-    <br>
-    The content is structured to guide users through key steps of Learning Path design and implementation. You will find a six-step protocol within the **“Designing Learning Paths”** section, which lays out practical steps for tailoring paths to different audiences. 
+    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths. It offers a wide range of materials, including **guidelines, case studies, examples, training resources, and best practices**, all aimed at supporting lifelong learning and the develoment of expertise across various domains. The content is structured to guide users through key steps of Learning Path design and implementation.<br> 
+    In the **“Designing Learning Paths”** section, you will find a simple and flexible six-step protocol that outlines practical steps for approaching the planning of Learning Paths tailored to specific target audiences and learning needs.
     <br>
     The **“Case Studies”** section provides real-world examples of Learning Paths successfully applied in various settings, offering insights into effective design choices and lessons learned.
     <br>
