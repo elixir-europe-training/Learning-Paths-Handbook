@@ -27,6 +27,7 @@
     <br>
     A unique feature of this handbook is its collaborative nature, highlighted in the **“A Collaborative Journey”** section, which shares the story of how this project was created and developed collaboratively within the context of a Research Infrastructure. This section underscores the importance of contributions from a diverse community of experts, ensuring the handbook remains dynamic and relevant.
     <br>
+    <br>
     Additionally, **this handbook is not static—it is designed to grow and evolve**. You will have the opportunity to contribute by sharing your own experiences, feedback, and updates, helping to keep the content aligned with the latest developments in Learning Path methodologies. By contributing, you can become part of a community of like-minded individuals passionate about enhancing educational design and implementation.
     <br>
     
