@@ -16,10 +16,10 @@
 
 !!! overview ""
     :fontawesome-regular-bookmark: <span style="color: blue; font-size: 18px;">**Description**</span>  
-    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths. It offers a wide range of materials, including **guidelines, case studies, examples, training resources, and best practices**, all aimed at supporting lifelong learning and the develoment of expertise across various domains. Designed to be both practical and flexible, the handbook caters to training providers, curriculum developers, and anyone involved in education within diverse contexts. 
-    </br>
+    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths. It offers a wide range of materials, including **guidelines, case studies, examples, training resources, and best practices**, all aimed at supporting lifelong learning and the develoment of expertise across various domains.
+    <br>
     The content is structured to guide users through key steps of Learning Path design and implementation. You will find a six-step protocol within the **“Designing Learning Paths”** section, which lays out practical steps for tailoring paths to different audiences. 
-    </br>
+    <br>
     The **“Case Studies”** section provides real-world examples of Learning Paths successfully applied in various settings, offering insights into effective design choices and lessons learned.
     </br>
     The handbook also emphasises the importance of integration and alignment with the Training Platform within ELIXIR in the corresponding **"ELIXIR Training Platform (Connections and Integration)"** section, showcasing how Learning Paths can be linked and embedded within a broader training ecosystem to maximise their impact. 
