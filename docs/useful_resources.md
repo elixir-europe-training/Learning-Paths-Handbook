@@ -1,4 +1,4 @@
-# About definitions of Learning Paths:
+# About Learning Path definition:
     - [https://www.easy-lms.com/knowledge-center/academy-center/what-are-learning-paths-definition-explained/item13002](https://www.easy-lms.com/knowledge-center/academy-center/what-are-learning-paths-definition-explained/item13002) What are learning paths? Definition explained! 
 # Learning Goals and Learning Outcomes:
     - [https://bokcenter.harvard.edu/learning-goals-and-learning-objectives](https://bokcenter.harvard.edu/learning-goals-and-learning-objectives) The importance of articulating learning goals and learning objectives
