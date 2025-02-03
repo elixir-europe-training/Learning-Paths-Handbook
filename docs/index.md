@@ -21,16 +21,15 @@
     The content is structured to guide users through key steps of Learning Path design and implementation. You will find a six-step protocol within the **“Designing Learning Paths”** section, which lays out practical steps for tailoring paths to different audiences. 
     <br>
     The **“Case Studies”** section provides real-world examples of Learning Paths successfully applied in various settings, offering insights into effective design choices and lessons learned.
-    </br>
+    <br>
     The handbook also emphasises the importance of integration and alignment with the Training Platform within ELIXIR in the corresponding **"ELIXIR Training Platform (Connections and Integration)"** section, showcasing how Learning Paths can be linked and embedded within a broader training ecosystem to maximise their impact. 
-    </br>
+    <br>
     For further learning and exploration, the **“Useful Online Resources”** section provides curated links and resources that can support ongoing research and application of Learning Path approaches.
-    </br>
+    <br>
     A unique feature of this handbook is its collaborative nature, highlighted in the **“A Collaborative Journey”** section, which shares the story of how this project was created and developed collaboratively within the context of a Research Infrastructure. This section underscores the importance of contributions from a diverse community of experts, ensuring the handbook remains dynamic and relevant.
-    </br>
+    <br>
     Additionally, **this handbook is not static—it is designed to grow and evolve**. You will have the opportunity to contribute by sharing your own experiences, feedback, and updates, helping to keep the content aligned with the latest developments in Learning Path methodologies. By contributing, you can become part of a community of like-minded individuals passionate about enhancing educational design and implementation.
-
-    </br>
+    <br>
     
     :fontawesome-solid-arrow-left: <span style="color: blue; font-size: 18px;">**Prerequisites**</span>   
     To effectively follow and read this handbook, learners should have:  
@@ -39,7 +38,7 @@
     2. familiarity with instructional design frameworks
     3. general understanding of the subject matter or domain for which Learning Paths will be developed.
     
-    </br>
+    <br>
     
     :fontawesome-solid-arrow-right: <span style="color: blue; font-size: 18px;">**Learning Outcomes:**</span>  
     By consulting this handbook, learners will be able to:
@@ -49,7 +48,7 @@
     3. gain an overview of how Learning Paths can be integrated into training programs, such as the ones delivered by ELIXIR
     4. collaborate more effectively with teams or stakeholders to plan and implement Learning Paths across various domains.
     
-    </br>
+    <br>
     
     :fontawesome-solid-users: <span style="color: blue; font-size: 18px;">**Target Audience:**</span> Training providers, trainers, professors, educators, researchers, and anyone with an interest in educational science. 
     </br>
