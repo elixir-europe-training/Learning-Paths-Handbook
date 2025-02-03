@@ -15,7 +15,7 @@
 -->
 
 ## What is a DOMAIN?
-!!! note "Note"
+!!! info "What is a DOMAIN?"
 
     Here you can put a note using admonitions.
 
@@ -33,5 +33,6 @@ a clearly stated DOMAIN ensures clarity, helping learners understand the focus a
 
 ## Use-case example
 
+??? abstract For more information ...
 
 
