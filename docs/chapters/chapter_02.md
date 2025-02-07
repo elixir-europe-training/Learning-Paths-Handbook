@@ -4,8 +4,8 @@ Identify TARGET AUDIENCE is the second step in this protocol. The goal is to ide
 ## What is TARGET AUDIENCE?
 !!! info "TARGET AUDIENCE is ..."
 
-    Within teaching and learning contexts, a target audience is a specific group of learners
-    Alternative words used for target audience: learners
+    - Within teaching and learning contexts, a target audience is a specific group of learners
+    - Alternative words used for target audience: learners
 
 
 ## Why do we need to identify TARGET AUDIENCE?
