@@ -25,7 +25,7 @@ Identify TARGET AUDIENCE is the second step in this protocol. The goal is to ide
 - Define Prerequisite Knowledge (minimum level of knowledge or skills that learners must have before starting the Learning Path.)
 
 ## Use-case example
-- Bioinformatics for Genomics Learning Path
+- Bioinformatics for Genomics Learning Path <br>
 In this example, the target audience consists of postgraduate students, who could be either PhD or master students.
 
 <br>
