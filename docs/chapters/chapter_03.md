@@ -12,6 +12,11 @@ As part of this cyclical process, the creation of a roadmap/concept map begins. 
 
 
 ## How do we identify AREA(S)?
+- knowledge areas help in structuring the LP logically and systematically (from scratch). It serves as an intermediate level of organisation within a LP/curriculum, lying between general domains and specific topics
+- they provide a clear roadmap for both educators and learners, enhancing the learning experience
+- this structured approach facilitates and ensures a comprehensive educational experience, tailored to cover all necessary competencies
+- this approach gives freedom to the LP designer (who is an expert in the domain (see Step 1)) to best include all topics (step 4) to be covered in all identified areas during the learning path
+
 
 ## Use-case example
 
