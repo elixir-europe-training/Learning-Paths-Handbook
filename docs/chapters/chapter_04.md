@@ -12,8 +12,14 @@
     - stages form an evidence-based developmental trajectory of increasing cognitive complexity
 
 ## Why do we need to identify TOPICS and STAGES?
+- to identify the content of each lesson and collection of lessons
+- to describe the relationship between each lesson, where there is overlap
+- to help identify learning outcomes (step 6).
 
 ## How do we identify TOPICS and STAGES?
+- Break down the broad area into smaller topics
+- For each topic define corresponding stages of knowledge/skills (beginner, intermediate, advanced)
+
 
 ## Use-case example
 
