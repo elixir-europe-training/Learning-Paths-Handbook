@@ -6,11 +6,10 @@ As part of this cyclical process, the creation of a roadmap/concept map begins. 
 
 ## What are AREA(S)
 
-!!! note "Note"
+!!! info "An AREA is ..."
 
-    Here you can put a note using admonitions.
+    In this context, AREA refers to a broad category of expertise that includes related topics (detailed, discrete units of knowledge) (step 4) to be covered during the learning path. Areas, such as domains (step 1) and topics (step 3), have no clearly defined borders between each other (EDAM).
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## How do we identify AREA(S)?
 
