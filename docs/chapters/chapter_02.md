@@ -18,6 +18,10 @@ Identify TARGET AUDIENCE is the second step in this protocol. The goal is to ide
 
 
 ## How do we identify TARGET AUDIENCE?
+- Think about the expected background (general level of expertise, educational background, or professional experience you expect the audience to have when engaging with the LP)
+- Refine your understanding of their needs (identify what the target audience already knows and what gaps may exists in their knowledge and motivation; use tools like surveys, forms to gather this information)
+- Be Specific (clearly define characteristics such as skill level and domain-specific knowledge)
+- Define Prerequisite Knowledge (minimum level of knowledge or skills that learners must have before starting the Learning Path.)
 
 ## Use-case example
 
