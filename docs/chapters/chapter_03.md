@@ -23,8 +23,8 @@
 - ensure that the Areas are neither too broad or too narrow, and adjust the number of areas if necessary
 - review and refine the knowledge Areas based on the topics identified in the following step
 - conduct a final review and revision of the knowledge Areas at the end of the protocol cycle
-- use the framework (link)
-- 
+- use the LP framework (link) (?)
+
 ## Use-case example
 - Bioinformatics for Genomics Learning Path <br>
 Areas:<br>
