@@ -28,10 +28,10 @@ As part of this cyclical process, the creation of a roadmap/concept map begins. 
 ## Use-case example
 - Bioinformatics for Genomics Learning Path <br>
 Areas:<br>
-1. Computing
-2. Statistics/Artificial Intelligence
-3. Bioinformatics resources (databases, tools)
-4. Genomics
+1. Computing <br>
+2. Statistics/Artificial Intelligence <br>
+3. Bioinformatics resources (databases, tools) <br>
+4. Genomics <br>
 
 <br>
 <br>
