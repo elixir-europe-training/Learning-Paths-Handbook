@@ -16,7 +16,7 @@ Learning Paths are **highly beneficial** as they not only **break complex learni
 
 This six-step protocol is designed for **training providers, curriculum developers, and educators** seeking a straightforward and adaptable framework for building Learning Paths across various contexts.
 
-Accompanied by detailed guidelines, best practices, and examples, the protocol provides a step-by-step approach to failitate creation of effective Learning Paths. Its focus is on fostering lifelong learning by providing a structured yet adaptable framework that supports continuous skill development and knowledge acquisition.
+Accompanied by detailed guidelines, best practices, and examples, the protocol provides a step-by-step approach to facilitate creation of effective Learning Paths. Its focus is on fostering lifelong learning by providing a structured yet adaptable framework that supports continuous skill development and knowledge acquisition.
 
 !!! success "Key Properties of Learning Paths"
 
