@@ -9,7 +9,12 @@ Identify TARGET AUDIENCE is the second step in this protocol. The goal is to ide
 
 
 ## Why do we need to identify TARGET AUDIENCE?
-
+- Important to align the lesson design with the the specific needs and characteristics of the target audienc
+- Helps you understand who you are designing the learning path for and what their learning needs are
+- Defines the scope of the learning path
+- Helps in determining desired learning outcomes
+- Ensures the learning path is more effective by aligning with the motivations, background, and expertise of the target audience
+- When displayed, it can help attract learners with the right motivation and sufficient prior knowledge to engage successfully with the training.
 
 
 ## How do we identify TARGET AUDIENCE?
