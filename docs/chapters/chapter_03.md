@@ -8,7 +8,7 @@
 
 !!! info "An AREA is ..."
 
-    In this context, AREA refers to a broad category of expertise that includes related topics (detailed, discrete units of knowledge) (step 4) to be covered during the learning path. Areas, such as domains (step 1) and topics (step 3), have no clearly defined borders between each other (EDAM).
+    In this context, AREA refers to a broad group of knowledge that includes related topic(s) (more granular and detailed units of knowledge) (step 4) to be covered during the learning path. Areas, such as domains (step 1) and topics (step 3), have no clearly defined borders between each other [EDAM](https://edamontology.github.io/edam-browser/#topic_0003).
 
 ## Why do we need to identify AREA(S)?
 - knowledge areas help in structuring the LP logically and systematically (from scratch). It serves as an intermediate level of organisation within a LP/curriculum, lying between general domains and specific topics
