@@ -1,15 +1,15 @@
 ## What is this step about?
-- ensures that the chosen areas of the LP are populated with a comprehensive range of topics needed for a complete and well-strutured LP
-- define the stages (level of knowledge and skills) the target audience is expected to have in the topics before engaging with the LP
-- ensure that the topics and stages are designed to progressively build on existing knowledge while teaching new skills effectively
-
+- Ensures the selected AREAS are populated with a comprehensive range of TOPICS needed for a complete and well-structured Learning Path.
+- Defines the STAGES (levels of knowledge and skills) the target audience is expected to have in each TOPIC before progressing through the Learning Path.
+- Confirms that TOPICS and STAGES are designed to build progressively on existing knowledge while introducing new skills effectively.
 
 ## What are TOPICS and STAGES?
 !!! info "TOPICS and STAGES are ..."
 
-    - topics refer to more granular subjects within area(s)
-    - topics have no clearly defined borders between each other (EDAM)
-    - stages form an evidence-based developmental trajectory of increasing cognitive complexity
+    - TOPICS are the more granular subjects within each AREA.
+    - TOPICS may not have strict boundaries between one another (EDAM).
+    - STAGES describe an evidence-based developmental trajectory of increasing cognitive complexity.
+
 
 ## Why do we need to identify TOPICS and STAGES?
 - to identify the content of each lesson and collection of lessons
@@ -17,13 +17,11 @@
 - to help identify learning outcomes (step 6).
 
 ## How do we identify TOPICS and STAGES?
-- Break down the broad area into smaller topics
-- For each topic define corresponding stages of knowledge/skills (beginner, intermediate, advanced)
+- Break down the broad AREA into smaller TOPICS
+- For each TOPIC, define corresponding STAGES of knowledge/skills (beginner, intermediate, advanced)
 
 
 ## Use-case example
 
+- **Bioinformatics for Genomics Learning Path:** Within the Genomics AREA, the TOPICS may include sequencing technologies, variant calling, and functional annotation. STAGES progress from understanding basic concepts to applying analytical pipelines and interpreting results.
 
-<br>
-<br>
-??? abstract "For more information ..."

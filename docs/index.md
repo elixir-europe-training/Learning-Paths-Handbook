@@ -16,10 +16,10 @@
 
 !!! overview ""
     :fontawesome-regular-bookmark: <span style="color: blue; font-size: 18px;">**Description**</span>  
-    This handbook will serve as a **comprehensive resource hub** for exploring, designing, and implementing structured learning paths. It offers a wide range of materials, including **guidelines, case studies, examples, training resources, and best practices**, all aimed at supporting lifelong learning and the develoment of expertise across various domains. The content is structured to guide users through key steps of Learning Path design and implementation.<br> 
-    In the **“Designing Learning Paths”** section, you will find a simple and flexible six-step protocol that outlines practical steps for approaching the planning of Learning Paths tailored to specific target audiences and learning needs.
+    This handbook is a **comprehensive resource** for exploring, designing, and implementing structured learning paths. It brings together **guidelines, case studies, examples, training resources, and best practices** to support lifelong learning and the develoment of expertise across various domains. The content is structured to guide users through key steps of Learning Path design and implementation.<br> 
+    The **“Designing Learning Paths”** section presents a practical six-step protocol that can be adapted to different target audiences and learning needs.
     <br>
-    The **“Case Studies”** section provides real-world examples of Learning Paths successfully applied in various settings, offering insights into effective design choices and lessons learned.
+    The **“Case Studies”** section showcases how Learning Paths have been applied in real contexts, offering insights into effective design choices and lessons learned.
     <br>
     The handbook also emphasises the importance of integration and alignment with the Training Platform within ELIXIR in the corresponding **"ELIXIR Training Platform (Connections and Integration)"** section, showcasing how Learning Paths can be linked and embedded within a broader training ecosystem to maximise their impact. 
     <br>
@@ -28,15 +28,15 @@
     A unique feature of this handbook is its collaborative nature, highlighted in the **“A Collaborative Journey”** section, which shares the story of how this project was created and developed collaboratively within the context of a Research Infrastructure. This section underscores the importance of contributions from a diverse community of experts, ensuring the handbook remains dynamic and relevant.
     <br>
     <br>
-    Additionally, **this handbook is not static—it is designed to grow and evolve**. You will have the opportunity to contribute by sharing your own experiences, feedback, and updates, helping to keep the content aligned with the latest developments in Learning Path methodologies. By contributing, you can become part of a community of like-minded individuals passionate about enhancing educational design and implementation.
+    **This handbook is designed to evolve**. Readers are invited to contribute experiences, feedback, and updates, helping to keep the content aligned with the latest developments in Learning Path methodologies. By contributing, you can become part of a community of like-minded individuals passionate about enhancing educational design and implementation.
     <br>
     
     :fontawesome-solid-arrow-left: <span style="color: blue; font-size: 18px;">**Prerequisites**</span>   
     To effectively read and use this handbook, learners should have:  
     
-    1. foundational knowledge in basic principles of education and curriculum development
-    2. familiarity with instructional design frameworks
-    3. general understanding of the subject matter or domain for which Learning Paths will be developed.
+    1. Foundational knowledge in basic principles of education and curriculum development
+    2. Familiarity with instructional design frameworks
+    3. A general understanding of the subject matter or domain for which Learning Paths will be developed
     
     <br>
     
